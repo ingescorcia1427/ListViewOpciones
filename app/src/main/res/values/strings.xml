@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ListViewYOpciones</string>
+    <string name="titulo">REGISTRO</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="leer">Leer</string>
+    <string name="jugar">Jugar</string>
+    <string name="programar">Programar</string>
+    <string name="registrar">Registrar</string>
+    <string name="borrar">Borrar</string>
 </resources>
